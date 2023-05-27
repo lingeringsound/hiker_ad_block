@@ -1,0 +1,4 @@
+version:1
+baidu.com::#[id*="ec-"][id*="ad"]@@#[id*="ec_"][id*="ad"]@@#[srcid*="_ad"]
+google.com::#div && a[href*="%E2%9D%A4%EF%B8%8F%E2%80%8D"]@@#div && a[href*="%E2%9A%BD"]@@#div && a[href*="%E2%98%80%EF%B8%8F"]@@#div && a[href*="%E2%9C%94%EF%B8%8F"]@@div && a[href*="%E2%9C%85%EF%B8%8F"]@@div && a[href*="%E2%AD%90"]@@div && a[href*="%E3%8A%99%EF%B8%8F"]
+missav.com::#.under_player,0@@#[class^="root--"]@@#[href*="//bit.ly/"]@@#div[class^="flex justify-center"]@@#img[src^="https://static.missav"][data-src^="https://static.missav"][alt][class="lozad"][data-loaded="true"]
