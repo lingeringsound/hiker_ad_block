@@ -6,7 +6,6 @@ version:2
 .com/?channelCode=
 .com/new/5*.html
 .com/new/8*.html
-.com:*/*/*?*=&*=
 .com:*/*/m.html?shareName=
 .com:*/?channelCode=
 .com:*/entry/register/?i_code=
@@ -15,6 +14,7 @@ version:2
 .com:8010/cc/*?is_not=1&target=1
 .html?channelCode=
 .kkilivf.cn/*.html
+.live/?channelCode=
 .live:*/waga*.html
 .net:*/index.html?shareName=
 .top/?channelCode=
@@ -36,6 +36,7 @@ version:2
 ://*:*/yeyue.html?k=
 ://als1007.xz.*.cn/qd/*/*ml168.apk?
 ://als1007.xz.*.cn/qd/*/*xf168.apk?
+://apftv*.xn--*.com/*.html
 ://app-*.com/page/*/install/c/*=
 ://app-mctnge.*.com/page/mctnge/install/c/
 ://at.umtrack.com/*?cid=
